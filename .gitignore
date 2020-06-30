@@ -1,25 +1,7 @@
-# IntelliJ
-.idea
-*.iml
-
-# Serenity BDD
-*.jar
-
-# OS
-.DS_Store
-
 # Node
 node_modules
-examples/*/package-lock.json
-integration/*/package-lock.json
-packages/*/package-lock.json
-
-# Build Artifacts
-_book
-.nyc_output
-documentation/*/target/
-integration/*/target/
-packages/*/target/
-target/
 *.log
-packages/*/lib
+
+# Build artifacts
+.nyc_output
+lib

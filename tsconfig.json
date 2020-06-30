@@ -3,19 +3,11 @@
     "target": "es2018",
     "lib": ["es2018"],
     "module": "commonjs",
-    "emitDecoratorMetadata": true,
-    "experimentalDecorators": true,
     "sourceMap": true,
     "declaration": true
   },
 
   "exclude": [
-    "_book",
-    "book",
-    "docs",
-    "examples",
-    "node_modules",
-    "packages/**/node_modules",
-    "scripts"
+    "node_modules"
   ]
 }

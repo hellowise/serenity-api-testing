@@ -1,0 +1,35 @@
+{
+       "workbench.sideBar.location": "left",
+       "cucumberautocomplete.steps": [
+           "features/step_definitions/*.ts",
+           "features/step_definitions/*/*.ts"
+       ],
+       "cucumberautocomplete.syncfeatures": "features/**/*feature",
+       "cucumberautocomplete.strictGherkinCompletion": true,
+       "cucumberautocomplete.smartSnippets": true,
+       "cucumberautocomplete.stepsInvariants": true,
+       "cucumberautocomplete.onTypeFormat": true,
+       "window.zoomLevel": 1,
+       "editor.fontFamily": "Verdana",
+       "editor.fontSize": 10,
+       "editor.tabSize": 2,
+       "editor.formatOnPaste": true,
+       "editor.formatOnSave": true,
+       "editor.renderWhitespace": "all",
+       "editor.lineHeight": 17,
+       "terminal.integrated.fontFamily": "Consolas",
+        "terminal.integrated.fontSize": 11,
+        "terminal.integrated.lineHeight": 1,
+        "git.autofetch": true,
+       "workbench.colorCustomizations": {
+           "tab.activeBorder": "#00E5E5",
+           "list.inactiveSelectionForeground": "#00E5E5",
+           "list.activeSelectionBackground": "#88095e"
+       },
+       "editor.quickSuggestions": {
+           "other": true,
+           "comments": true,
+           "strings": true
+       },
+    }
+    
